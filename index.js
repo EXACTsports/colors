@@ -13,10 +13,10 @@ module.exports = require("tailwindcss/plugin")(
                     'pale-orange' : '#F4BE76',
                     'logo-orange': '#fe5000', // EXACT Logo
                     
-                    // grey
+                    // gray
                     'dark-gray': '#363F51',
                     
-                    //browns
+                    // browns
                     'pale-brown' : '#B99A7B',
                     'beige' : '#F8F4EA',
                 },
