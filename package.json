@@ -1,0 +1,11 @@
+{
+  "name": "colors",
+  "version": "1.0.0",
+  "description": "Adds the brand colours to Tailwind config.",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Exact",
+  "license": "ISC"
+}
