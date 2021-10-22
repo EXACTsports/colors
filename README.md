@@ -1,6 +1,8 @@
 # Tailwind CSS Exact Brands Color Palette
 
-This plugin adds the EXACT Brands colors to the Tailwind color palette.
+This plugin adds the custom EXACT Brands colors to the Tailwind color palette.
+
+For which standard Tailwind colors to use in the different sites, please refer to the EXACTSports/style repo.
 
 ## Installation
 
